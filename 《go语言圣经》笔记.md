@@ -84,3 +84,6 @@ q := [...]int{1, 2, 3}
 q := [3]int{1, 2, 3}
 ```
 
+## init()和main()
+
+![img](.\pic\SouthEast)
